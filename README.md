@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para praticar conceitos de Java, como orientação a objetos, manipulação de dados e desenvolvimento com Spring.
 
-🔧 Tecnologias utilizadas
+## 🔧 Tecnologias utilizadas
 
 - Java
 - Spring Framework
@@ -10,7 +10,7 @@ Projeto desenvolvido para praticar conceitos de Java, como orientação a objeto
 - Git & GitHub
 - PostgreSQL
 
-✨ Funcionalidades
+## ✨ Funcionalidades
 
 - Cadastro de músicas e artistas
 - Exibição de listas de músicas
